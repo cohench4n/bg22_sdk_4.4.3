@@ -1,0 +1,14 @@
+# Gecko SDK 4.4.3
+
+Chip: EFRBG22C224F512GM32
+
+Toolchain: GNU ARM v12.2.1.20221205
+
+project:
+
+- GV57MG
+- GV57MG_GTF
+- GV57MGV2
+- GV57MGPV2
+- GL53MG
+
